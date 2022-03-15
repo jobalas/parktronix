@@ -1,0 +1,18 @@
+.MAX13451EAUD-plus- :1 ;MAXIM INTEGRATED PRODUCTS - MAX13451EAUD+ - RS-485 TRANSCEIVER, 20MBPS, TSSOP-14
+SOP65P638X110-15N
+*STM IC
+*NGS
+*PLB 1="DE" 2="'RE'" 3="DI" 4="VCC" 5="'TERM'" 6="VL" 7="RO" 8="INV" 9="FAULT" 10="A" 11="GND" 12="B" 13="TERM100" 14="SRL" 15="EP"
+*MXP 15
+*DFN MAX13451EAUD-plus-
+~!Manufacturer_Name (Maxim Integrated)
+~!Manufacturer_Part_Number (MAX13451EAUD+)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (700-MAX13451EAUD+)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=700-MAX13451EAUD%2B)
+~!Link Datasheet (https://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf)
+~!Height (1.1mm)
+~!3D_Model (MAX13451EAUD+)
+MAX13451EAUD-plus-
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 8.1!U 

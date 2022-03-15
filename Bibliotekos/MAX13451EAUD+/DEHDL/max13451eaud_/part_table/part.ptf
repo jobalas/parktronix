@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX13451EAUD_'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Maxim Integrated", "MAX13451EAUD+" (!) = "", "SOP65P638X110-15N", "Small Outline Packages", "", "", "700-MAX13451EAUD+", "https://www.mouser.com/Search/Refine.aspx?Keyword=700-MAX13451EAUD%2B", "MAXIM INTEGRATED PRODUCTS - MAX13451EAUD+ - RS-485 TRANSCEIVER, 20MBPS, TSSOP-14", "https://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf", "1.1 mm"
+END_PART
+
+END.

@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "HE721A0510"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-01-03-16:41:14)
+    (mountForm default
+        (footprintRef "HE721A0510")
+        (spec "System")
+    )
+)

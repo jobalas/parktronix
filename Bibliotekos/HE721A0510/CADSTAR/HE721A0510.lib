@@ -1,0 +1,18 @@
+.HE721A0510 :1 ;SPNO Reed Relay, 5V dc
+HE721A0510
+*STM K
+*NGS
+*PLB 1="NO_1" 2="COIL +" 6="COIL -" 7="COM_1" 8="COM_2" 9="E.S." 13="NOT CONNECTED" 14="NO_2"
+*MXP 8
+*DFN HE721A0510
+~!Manufacturer_Name (LITTELFUSE)
+~!Manufacturer_Part_Number (HE721A0510)
+~!Arrow Part Number (HE721A0510)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/he721a0510/littelfuse)
+~!Mouser Part Number (934-HE721A0510)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Littelfuse/HE721A0510?qs=X8LBAgEWIKIfZjBxMXqqBA%3D%3D)
+~!Link Datasheet (http://www.littelfuse.com/~/media/electronics/datasheets/reed_relays/littelfuse_reed_relays_he700_datasheet.pdf.pdf)
+~!Height (5.82mm)
+~!3D_Model (HE721A0510)
+HE721A0510
+1.1!U 2.1!U 6.1!U 7.1!U 8.1!U 9.1!U 13.1!U 14.1!U 

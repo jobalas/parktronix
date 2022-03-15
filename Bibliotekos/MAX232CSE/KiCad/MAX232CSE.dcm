@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX232CSE
+D RS-232 Interface IC +5V-Powered, Multichannel RS-232 Drivers/Receivers
+K
+F https://4donline.ihs.com/images/VipMasterIC/IC/RSEL/RSEL-S-A0001211545/RSEL-S-A0001210607-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0
+$ENDCMP
+#
+#End Doc Library

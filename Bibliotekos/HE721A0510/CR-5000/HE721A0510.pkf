@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "HE721A0510"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "HE721A0510")
+        (spec "default")
+    )
+)

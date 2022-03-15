@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MAX232CSE'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Maxim Integrated", "MAX232CSE" (!) = "", "SOIC127P600X175-16N", "Small Outline Packages", "", "", "N/A", "https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX232CSE?qs=ZENAYvsrzLrMSSPYyHDhAg%3D%3D", "RS-232 Interface IC +5V-Powered, Multichannel RS-232 Drivers/Receivers", "https://4donline.ihs.com/images/VipMasterIC/IC/RSEL/RSEL-S-A0001211545/RSEL-S-A0001210607-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0", "1.75 mm"
+END_PART
+
+END.

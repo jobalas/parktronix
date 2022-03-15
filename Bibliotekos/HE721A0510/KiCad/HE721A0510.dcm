@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HE721A0510
+D SPNO Reed Relay, 5V dc
+K
+F http://www.littelfuse.com/~/media/electronics/datasheets/reed_relays/littelfuse_reed_relays_he700_datasheet.pdf.pdf
+$ENDCMP
+#
+#End Doc Library

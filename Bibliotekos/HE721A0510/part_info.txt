@@ -1,0 +1,9 @@
+Manufacturer=LITTELFUSE
+PartNumber=HE721A0510
+PartCategory=Relay or Contactor
+PackageCategory=Other
+PinCount=8
+Version=1.1
+Released=2019-01-03 16:41:14
+Downloaded=2020-11-02 19:54:50
+3D=Y

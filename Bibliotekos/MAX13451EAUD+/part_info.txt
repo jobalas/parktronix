@@ -1,0 +1,9 @@
+Manufacturer=Maxim Integrated
+PartNumber=MAX13451EAUD+
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=15
+Version=1.1
+Released=2018-06-08 06:30:28
+Downloaded=2020-10-08 13:46:58
+3D=Y

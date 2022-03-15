@@ -1,0 +1,18 @@
+.MAX232CSE :1 ;RS-232 Interface IC +5V-Powered, Multichannel RS-232 Drivers/Receivers
+SOIC127P600X175-16N
+*STM IC
+*NGS
+*PLB 1="C1+" 2="V+" 3="C1-" 4="C2+" 5="C2-" 6="V-" 7="T2OUT" 8="R2IN" 9="R2OUT" 10="T2IN" 11="T1IN" 12="R1OUT" 13="R1IN" 14="T1OUT" 15="GND" 16="VCC"
+*MXP 16
+*DFN MAX232CSE
+~!Manufacturer_Name (Maxim Integrated)
+~!Manufacturer_Part_Number (MAX232CSE)
+~!Arrow Part Number (-)
+~!Arrow Price/Stock (-)
+~!Mouser Part Number (N/A)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Maxim-Integrated/MAX232CSE?qs=ZENAYvsrzLrMSSPYyHDhAg%3D%3D)
+~!Link Datasheet (https://4donline.ihs.com/images/VipMasterIC/IC/RSEL/RSEL-S-A0001211545/RSEL-S-A0001210607-1.pdf?hkey=EF798316E3902B6ED9A73243A3159BB0)
+~!Height (1.75mm)
+~!3D_Model (MAX232CSE)
+MAX232CSE
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

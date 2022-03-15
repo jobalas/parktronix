@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MAX13451EAUD+
+D MAXIM INTEGRATED PRODUCTS - MAX13451EAUD+ - RS-485 TRANSCEIVER, 20MBPS, TSSOP-14
+K
+F https://datasheets.maximintegrated.com/en/ds/MAX13450E-MAX13451E.pdf
+$ENDCMP
+#
+#End Doc Library

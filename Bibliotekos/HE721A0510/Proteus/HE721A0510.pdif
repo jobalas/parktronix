@@ -1,0 +1,145 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "HE721A0510"
+   (description "SPNO Reed Relay, 5V dc")
+   (family "RLY")
+   (package "HE721A0510")
+   (attribute "Datasheet Link" "http://www.littelfuse.com/~/media/electronics/datasheets/reed_relays/littelfuse_reed_relays_he700_datasheet.pdf.pdf")
+   (attribute "Geometry.Height" "5.82mm")
+   (attribute "Manufacturer_Name" "LITTELFUSE")
+   (attribute "Manufacturer_Part_Number" "HE721A0510")
+   (attribute "Arrow Part Number" "HE721A0510")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/he721a0510/littelfuse")
+   (attribute "Mouser Part Number" "934-HE721A0510")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/HE721A0510?qs=X8LBAgEWIKIfZjBxMXqqBA%3D%3D")
+   (gate
+    (symbol "HE721A0510")
+    (pin "NO_1" 1 PS)
+    (pin "COIL_+" 2 PS)
+    (pin "COIL_-" 6 PS)
+    (pin "COM_1" 7 PS)
+    (pin "COM_2" 8 PS)
+    (pin "E.S." 9 PS)
+    (pin "NOT_CONNECTED" 13 PS)
+    (pin "NO_2" 14 PS)
+   )
+  )
+  (symbol "HE721A0510"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 1500 100) (pt 1500 -400) (pt 200 -400) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -200) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -300) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -300) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -200) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 -100) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1700 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "HE721A0510"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -1.905 8.57)
+      (pt 17.145 8.57)
+      (pt 17.145 0.95)
+      (pt -1.905 0.95)
+      (pt -1.905 8.57))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.905 8.57)
+      (pt 17.145 8.57)
+      (pt 17.145 0.95)
+      (pt -1.905 0.95)
+      (pt -1.905 8.57))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -2.905 11.18)
+      (pt 18.145 11.18)
+      (pt 18.145 -1.66)
+      (pt -2.905 -1.66)
+      (pt -2.905 11.18))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed true)
+      (pt -0.1 -1.1)
+      (arc (pt -0.100 -1.100) (pt -0.100 -1.200) (pt 0.100 -1.000) (start 180.0) (sweep 180.0))
+      (pt 0.1 -1.1)
+      (arc (pt 0.100 -1.100) (pt -0.100 -1.200) (pt 0.100 -1.000) (start 180.0) (sweep .0))
+      (pt -0.1 -1.1))))
+   (leg 1 (pt 0.000 0.000) (padstack 0))
+   (leg 2 (pt 2.540 0.000) (padstack 0))
+   (leg 6 (pt 12.700 0.000) (padstack 0))
+   (leg 7 (pt 15.240 0.000) (padstack 0))
+   (leg 8 (pt 15.240 9.520) (padstack 0))
+   (leg 9 (pt 12.700 9.520) (padstack 0))
+   (leg 13 (pt 2.540 9.520) (padstack 0))
+   (leg 14 (pt 0.000 9.520) (padstack 0))
+   (padstack 0
+    (hole 0.77)
+    (plated true)
+    (pad (layer TCOP) (round 1.320))
+    (pad (layer INNER) (round 1.320))
+    (pad (layer BCOP) (round 1.320))
+   )
+   (model "HE721A0510.stp"
+    (euler 0 0 0)
+    (offset 0 0 0)
+   )
+  )
+ )
+)

@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model HE721A0510
+#/568083/288416/2.47/8/4/Relay or Contactor
+DEF HE721A0510 K 0 30 Y Y 1 F N
+F0 "K" 1550 300 50 H V L CNN
+F1 "HE721A0510" 1550 200 50 H V L CNN
+F2 "HE721A0510" 1550 100 50 H I L CNN
+F3 "http://www.littelfuse.com/~/media/electronics/datasheets/reed_relays/littelfuse_reed_relays_he700_datasheet.pdf.pdf" 1550 0 50 H I L CNN
+F4 "SPNO Reed Relay, 5V dc" 1550 -100 50 H I L CNN "Description"
+F5 "5.82" 1550 -200 50 H I L CNN "Height"
+F6 "LITTELFUSE" 1550 -300 50 H I L CNN "Manufacturer_Name"
+F7 "HE721A0510" 1550 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "HE721A0510" 1550 -500 50 H I L CNN "Arrow Part Number"
+F9 "https://www.arrow.com/en/products/he721a0510/littelfuse" 1550 -600 50 H I L CNN "Arrow Price/Stock"
+F10 "934-HE721A0510" 1550 -700 50 H I L CNN "Mouser Part Number"
+F11 "https://www.mouser.co.uk/ProductDetail/Littelfuse/HE721A0510?qs=X8LBAgEWIKIfZjBxMXqqBA%3D%3D" 1550 -800 50 H I L CNN "Mouser Price/Stock"
+DRAW
+X NO_1 1 0 0 200 R 50 50 0 0 P
+X COIL_+ 2 0 -100 200 R 50 50 0 0 P
+X COIL_- 6 0 -200 200 R 50 50 0 0 P
+X COM_1 7 0 -300 200 R 50 50 0 0 P
+X COM_2 8 1700 -300 200 L 50 50 0 0 P
+X E.S. 9 1700 -200 200 L 50 50 0 0 P
+X NOT_CONNECTED 13 1700 -100 200 L 50 50 0 0 P
+X NO_2 14 1700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1500 100 1500 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
